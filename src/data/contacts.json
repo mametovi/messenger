@@ -1,0 +1,77 @@
+{
+  "status": true,
+  "data": [
+   {
+    "id": 2,
+    "title": "Linn Ronning",
+    "img": "people-1.jpg",
+    "date": "15:24"
+   },
+   {
+    "id": 3,
+    "title": "Goldie Mossman",
+    "img": "people-2.jpg",
+    "date": "13:24"
+   },
+   {
+    "id": 4,
+    "title": "Laree Munsch",
+    "img": "people-3.jpg",
+    "date": "17:42"
+   },
+   {
+    "id": 5,
+    "title": "Brynn Bragg",
+    "img": "people-4.jpg",
+    "date": "  18:00"
+   },
+   {
+    "id": 6,
+    "title": "Merle Friberg",
+    "img": "people-5.jpg",
+    "date": " 22:24"
+   },
+   {
+    "id": 7,
+    "title": "Velva Valdovinos",
+    "img": "people-6.jpg",
+    "date": " 00:24"
+   },
+   {
+    "id": 8,
+    "title": "Dusti Gioia",
+    "img": "people-7.jpg",
+    "date": "Last seen yesterday 10:50"
+   },
+   {
+    "id": 9,
+    "title": "Philip Nelms",
+    "img": "people-8.jpg",
+    "date": " 06:47"
+   },
+   {
+    "id": 10,
+    "title": "Marty Otte",
+    "img": "people-9.jpg",
+    "date": "Last seen yesterday 20:07"
+   },
+   {
+    "id": 11,
+    "title": "Janene Thies",
+    "img": "people-10.jpg",
+    "date": "14:14"
+   },
+   {
+    "id": 12,
+    "title": "Bao Hathaway",
+    "img": "people-11.jpg",
+    "date": "15:20"
+   },
+   {
+    "id": 13,
+    "title": "Ramiro Roark",
+    "img": "people-12.jpg",
+    "date": "12:20"
+   }
+  ]
+ }
